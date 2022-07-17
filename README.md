@@ -1,4 +1,4 @@
-<p align="center"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a></p>
+<p align="center"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gladiator428/gladiator428/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a></p>
 
 <p align="center">
   
