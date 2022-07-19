@@ -13,7 +13,7 @@
 </a>
 </p>
 
-### ⚙️ &nbsp;GitHub Contribution
+### ⚙️ &nbsp;GitHub Contribution.
 
 <p>
   
